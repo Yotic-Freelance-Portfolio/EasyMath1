@@ -1,0 +1,2 @@
+﻿List<float> nums = Console.ReadLine().Split(';').Select(x => float.Parse(x)).ToList(), onums = nums.OrderBy(x => x).ToList();
+Console.WriteLine(onums.Sum() < 1 ? ($"X: {(onums[1] + onums[2]) / 2}, Y: {onums[1]}, Z: {onums[2]}") : ( nums[0] < nums[1] ? ($"X: {(onums[1] + onums[2]) / 2}, Y: {onums[1]}, Z: {onums[2]}") : ($"X: {(onums[0] + onums[2]) / 2}, Y: {onums[1]}, Z: {onums[2]}")));

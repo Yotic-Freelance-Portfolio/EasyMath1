@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\bin\Debug\net6.0\OnlyJewsCanOpenThisProgram.exe
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\bin\Debug\net6.0\OnlyJewsCanOpenThisProgram.deps.json
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\bin\Debug\net6.0\OnlyJewsCanOpenThisProgram.runtimeconfig.json
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\bin\Debug\net6.0\OnlyJewsCanOpenThisProgram.dll
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\bin\Debug\net6.0\ref\OnlyJewsCanOpenThisProgram.dll
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\bin\Debug\net6.0\OnlyJewsCanOpenThisProgram.pdb
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\obj\Debug\net6.0\OnlyJewsCanOpenThisProgram.GlobalUsings.g.cs
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\obj\Debug\net6.0\OnlyJewsCanOpenThisProgram.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\obj\Debug\net6.0\OnlyJewsCanOpenThisProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\obj\Debug\net6.0\OnlyJewsCanOpenThisProgram.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\obj\Debug\net6.0\OnlyJewsCanOpenThisProgram.AssemblyInfo.cs
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\obj\Debug\net6.0\OnlyJewsCanOpenThisProgram.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\obj\Debug\net6.0\OnlyJewsCanOpenThisProgram.dll
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\obj\Debug\net6.0\ref\OnlyJewsCanOpenThisProgram.dll
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\obj\Debug\net6.0\OnlyJewsCanOpenThisProgram.pdb
+C:\Users\user\source\repos\OnlyJewsCanOpenThisProgram\OnlyJewsCanOpenThisProgram\obj\Debug\net6.0\OnlyJewsCanOpenThisProgram.genruntimeconfig.cache
